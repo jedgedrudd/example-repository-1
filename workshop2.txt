@@ -3,4 +3,5 @@ Here is the second file I am working on
 I am adding another comment to workfile 
 here is some more changes to workshop2 that I made in my branch.
 
-Jacquelne has made changes here
+Jacqueline has made changes here
+Jedgedrudd making more changes...
